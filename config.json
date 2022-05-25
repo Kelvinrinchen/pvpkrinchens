@@ -1,0 +1,9 @@
+{
+	"ip":"PVP_SKD.aternos.me:52376",
+	"port": "52376",
+	"name": "Server",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
